@@ -7,7 +7,7 @@
 - 🌐 HTML & CSS  
 - 🎨 Figma (UI/UX Design)  
 - ⚙️ C#
-- 
+  
 ## 🌱 Currently Learning
 
 - 📜 JavaScript  
