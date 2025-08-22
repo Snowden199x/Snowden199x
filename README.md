@@ -2,6 +2,9 @@
   I'm **Patrick John**, a **2nd Year BSIT Student** currently enrolled at **Laguna State Polytechnic University (LSPU) - Sta. Cruz Campus (SCC)**.  
   I'm passionate about technology, creativity, and continuously improving my skills.  
 
+# 📂 Projects
+- 💻 [ITEC Final Project](https://github.com/ZieksQ/ITEC_FinalProject)  
+
 ## 🛠 Skills
 
 - 🌐 HTML & CSS  
