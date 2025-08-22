@@ -1,15 +1,29 @@
-# 👋 Introduction
-Hi! I'm **Patrick John**, currently enrolled at **Laguna State Polytechnic University (LSPU) - Sta. Cruz Campus (SCC)**.  
-I'm passionate about technology, creativity, and continuously improving my skills.  
+# Hi, I'm Patrick! 👋
+  I'm **Patrick John**, a **2nd Year BSIT Student** currently enrolled at **Laguna State Polytechnic University (LSPU) - Sta. Cruz Campus (SCC)**.  
+  I'm passionate about technology, creativity, and continuously improving my skills.  
 
-# 🎯 Goals
-- Become a professional **Web Developer**  
-- Achieve success and one day become a **Billionaire** 🚀💸  
+## 🛠 Skills
 
-# 🚀 Skills
 - 🌐 HTML & CSS  
 - 🎨 Figma (UI/UX Design)  
-- 🐍 Python  
+- ⚙️ C#
+- 
+## 🌱 Currently Learning
 
-# 📧 Contact
-- Email: johndoe@email.com  
+- 📜 JavaScript  
+- 🗄️ Database Management (MySQL)  
+- 🎨 UI/UX Best Practices  
+- ⚡ React.js
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goco-patrick-john-m-b736b8374/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](goco.pj.bsinfotech@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p__scorp/)
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/zero_199x)
+
+## ✨ Quote
+*"The most damaging phrase in the language is... 'it's always been done this way'."* – Grace Hopper  
