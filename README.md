@@ -14,9 +14,9 @@
 ## 🌱 Currently Learning
 
 - 📜 JavaScript  
-- 🗄️ Database Management (MySQL)  
-- 🎨 UI/UX Best Practices  
+- 🗄️ Database Management (MySQL)   
 - ⚡ React.js
+- 🐍 Python
 
 ## 🔗 Links
 
