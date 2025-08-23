@@ -31,10 +31,20 @@ I'm passionate about technology, creativity, and continuously improving my skill
 
 
 ## 🌱 Currently Learning
-• 📜 JavaScript  
-• 🗄️ Database Management (MySQL) • 
-• ⚡ React.js 
-• 🐍 Python  
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+</p>
 
 
 ## 🔗 Links
@@ -44,7 +54,7 @@ I'm passionate about technology, creativity, and continuously improving my skill
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/zero_199x)
 
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Snowden199x&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
@@ -55,9 +65,13 @@ I'm passionate about technology, creativity, and continuously improving my skill
 ![](https://github-profile-trophy.vercel.app/?username=Snowden199x&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
+---
+
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/goconatics1030)
 
+
+---
 
 ## ✨ Quote
 *"The most damaging phrase in the language is... 'it's always been done this way'."* – Grace Hopper  
