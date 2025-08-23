@@ -2,6 +2,10 @@
 
 <h1> 👋 Hi, I'm Patrick! </h1>
 
+<p align="center">
+  <img src="https://i.imgur.com/YOURGIFID.gif" width="500" alt="Patrick GIF"/>
+</p>
+
 <h1>  I'm Patrick John, a 2nd Year BSIT Student currently enrolled at Laguna State Polytechnic University (LSPU) - Sta. Cruz Campus (SCC).
 I'm passionate about technology, creativity, and continuously improving my skills. </h1>
 ⚠️ *Disclaimer: This GitHub account is for school purposes only. A professional account will be created soon.*
