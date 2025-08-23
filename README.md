@@ -3,8 +3,9 @@
 <h1> 👋 Hi, I'm Patrick! </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/YOURGIFID.gif" width="500" alt="Patrick GIF"/>
+  <img src="https://i.imgur.com/zUpYJCH.gif" alt="Patrick GIF" style="width:100%; max-width:1000px; max-height:400px; height:auto;"/>
 </p>
+
 
 <h1>  I'm Patrick John, a 2nd Year BSIT Student currently enrolled at Laguna State Polytechnic University (LSPU) - Sta. Cruz Campus (SCC).
 I'm passionate about technology, creativity, and continuously improving my skills. </h1>
