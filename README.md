@@ -91,7 +91,7 @@ I'm passionate about technology, creativity, and continuously improving my skill
 *"The most damaging phrase in the language is... 'it's always been done this way'."* – Grace Hopper  
 
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Snowden199x&color=blue&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Snowden199x&color=green&style=flat-square)
 
 
 </div>
