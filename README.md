@@ -7,52 +7,43 @@ I'm passionate about technology, creativity, and continuously improving my skill
 
 ---
 
-**📊 GitHub Stats**  
-![](https://github-readme-stats.vercel.app/api?username=Snowden199x&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Snowden199x&theme=dark&hide_border=false)<br/>
+<h2>📊 GitHub Stats</h2>
+
+![](https://github-readme-stats.vercel.app/api?username=Snowden199x&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=Snowden199x&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Snowden199x&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-**📂 Projects**  
+<h2>📂 Projects</h2>
+
 💻 [ITEC Final Project](https://github.com/ZieksQ/ITEC_FinalProject)  
 
 ---
 
-**🎯 Skills**  
+<h2>🎯 Skills</h2>
+
 <p align="center">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
+  <a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/></a>
 </p>
 
 ---
 
-**🌱 Currently Learning**  
+<h2>🌱 Currently Learning</h2>
+
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/></a>
+  <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/></a>
 </p>
 
 ---
 
-**🔗 Links**  
+<h2>🔗 Links</h2>
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goco-patrick-john-m-b736b8374/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goco.pj.bsinfotech@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p__scorp/) 
@@ -60,23 +51,27 @@ I'm passionate about technology, creativity, and continuously improving my skill
 
 ---
 
-**🔝 Top Contributed Repo**  
+<h2>🔝 Top Contributed Repo</h2>
+
 ![](https://github-contributor-stats.vercel.app/api?username=Snowden199x&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 [![](https://visitcount.itsvg.in/api?id=Snowden199x&icon=1&color=3)](https://visitcount.itsvg.in)
 
 ---
 
-**🏆 GitHub Trophies**  
+<h2>🏆 GitHub Trophies</h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=Snowden199x&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-**💰 You can help me by Donating**  
+<h2>💰 You can help me by Donating</h2>
+
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/goconatics1030)
 
 ---
 
-**✨ Quote**  
+<h2>✨ Quote</h2>
+
 *"The most damaging phrase in the language is... 'it's always been done this way'."* – Grace Hopper  
 
 </div>
