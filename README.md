@@ -3,7 +3,7 @@
 <h1> 👋 Hi, I'm Patrick! </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/zUpYJCH.gif" alt="Patrick GIF" style="width:100%; max-width:1000px; max-height:400px; height:auto;"/>
+  <img src="https://i.imgur.com/zUpYJCH.gif" width="100%" height="200" alt="Patrick GIF"/>
 </p>
 
 
@@ -90,8 +90,8 @@ I'm passionate about technology, creativity, and continuously improving my skill
 ### ✨ **Quote**
 *"The most damaging phrase in the language is... 'it's always been done this way'."* – Grace Hopper  
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Snowden199x&icon=1&color=3" alt="Profile Views" />
-</p>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=Snowden199x&color=blue&style=flat-square)
+
 
 </div>
