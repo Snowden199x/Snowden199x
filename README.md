@@ -1,15 +1,13 @@
-#             Hi, I'm Patrick! 👋
+# Hi, I'm Patrick! 👋
   I'm **Patrick John**, a **2nd Year BSIT Student** currently enrolled at **Laguna State Polytechnic University (LSPU) - Sta. Cruz Campus (SCC)**.  
-  I'm passionate about technology, creativity, and continuously improving my skills.  
+  I'm passionate about technology, creativity, and continuously improving my skills.
+  ⚠️ *Disclaimer: This GitHub account is for school purposes only. A professional account will be created soon.*
 
 # 📂 Projects
 - 💻 [ITEC Final Project](https://github.com/ZieksQ/ITEC_FinalProject)  
 
-## 🛠 Skills
-
-- 🌐 HTML & CSS  
-- 🎨 Figma (UI/UX Design)  
-- ⚙️ C#
+<h3 align="left">Skills:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
   
 ## 🌱 Currently Learning
 
