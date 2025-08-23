@@ -20,11 +20,6 @@ I'm passionate about technology, creativity, and continuously improving my skill
 
 ---
 
-### 🏆 **GitHub Trophies**
-![](https://github-profile-trophy.vercel.app/?username=Snowden199x&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ### 🎯 **Skills**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
