@@ -78,10 +78,8 @@ I'm passionate about technology, creativity, and continuously improving my skill
 ### 📂 **Projects**
 💻 [ITEC Final Project](https://github.com/ZieksQ/ITEC_FinalProject)  
 
----
 
-### 🔝 **Top Contributed Repo**
-![](https://github-contributor-stats.vercel.app/api?username=Snowden199x&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 
