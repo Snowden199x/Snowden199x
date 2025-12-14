@@ -47,7 +47,7 @@ I'm passionate about technology, creativity, and continuously improving my skill
 
 ### 📂 **Projects**
 💻 [ITEC Final Project](https://github.com/ZieksQ/ITEC_FinalProject)  
-
+💰 [Petty Cash](https://github.com/Snowden199x/PettyCash)
 ---
 
 ### 💰 **You can help me by Donating**
