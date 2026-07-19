@@ -6,7 +6,7 @@
   <img src="https://i.imgur.com/zUpYJCH.gif" width="100%" height="200" alt="Patrick GIF"/>
 </p>
 
-I'm Patrick John, a 2nd Year BSIT Student currently enrolled at Laguna State Polytechnic University (LSPU) - Sta. Cruz Campus (SCC).  
+I'm Patrick John, BSIT Student currently enrolled at Laguna State Polytechnic University (LSPU) - Sta. Cruz Campus (SCC).  
 I'm passionate about technology, creativity, and continuously improving my skills.  
 
 ⚠️ *Disclaimer: This GitHub account is for school purposes only. A professional account will be created soon.*
